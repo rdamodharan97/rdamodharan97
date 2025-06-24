@@ -75,7 +75,7 @@ Here are the languages, tools, and platforms I work with in my research:
 ### 1. Spatio-Temporal PM2.5 Forecasting for Delhi using GNNs and Multi-Source Data Fusion
 - Architected and implemented a deep learning pipeline for forecasting hourly PM2.5 levels at various locations in Delhi.
 - Integrated multi-source data, including ground-level, regionally aggregated satellite-derived atmospheric compositions.
-- **`[Link to Code Repository ->](link-to-your-repo)`**
+
 
 ### 2. Hyperspectral Urban Land Cover Classification with Attentive 3D Deep Learning and XAI
 - Engineered an end-to-end deep learning pipeline for precise urban land cover classification from hyperspectral imagery.
