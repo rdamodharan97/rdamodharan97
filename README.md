@@ -1,4 +1,4 @@
-<img src="DamodharanR.jpg" alt="My Headshot" width="200" align="left" style="margin-right: 20px;">
+<img src="DamodharanR.jpg" alt="My Headshot" width="150" align="left" style="margin-right: 20px;">
 
 ### Hi, I'm Damodharan R 👋
 
