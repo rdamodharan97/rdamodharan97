@@ -80,12 +80,12 @@ Here are the languages, tools, and platforms I work with in my research:
 ### 2. Hyperspectral Urban Land Cover Classification with Attentive 3D Deep Learning and XAI
 - Engineered an end-to-end deep learning pipeline for precise urban land cover classification from hyperspectral imagery.
 - Integrated custom spectral and spatial attention mechanisms into a 3D CNN and implemented 3D Grad-CAM for model explainability.
-- **`[Link to Code Repository ->](link-to-your-repo)`**
+
 
 ### 3. Intelligent IoT Sensor Network Orchestration & Placement Optimization Agent
 - Prototyped an AI agent for managing and optimizing a simulated environmental sensor network deployed across Chennai.
 - Developed a Coverage Analyzer using GeoPandas and implemented a Genetic Algorithm to suggest optimal new sensor locations.
-- **`[Link to Code Repository ->](link-to-your-repo)`**
+
 
 ---
 
